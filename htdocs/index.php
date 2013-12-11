@@ -7,7 +7,8 @@
 
 <body>
 
-<p>This is the index file.</p>
+<h1>Squash Demonstration</h1
+<p>A demonstration on squashing commits prior to merging branches into master.</p>
 
 </body>
 
