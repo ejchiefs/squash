@@ -1,7 +1,8 @@
 <html>
 
 <head>
-	<title>Demonstration</title>
+	<title>Squash Demonstration</title>
+	<meta name="description" content="A demonstration on squashing commits prior to merging branches into master." />
 </head>
 
 <body>
